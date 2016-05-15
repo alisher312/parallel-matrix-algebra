@@ -1,0 +1,1 @@
+cat execTemplate.sh $out$.jar > $out$ && chmod +x $out$
